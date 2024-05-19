@@ -1,0 +1,16 @@
+python-dotenv
+langsmith 
+langchain 
+langchain-openai 
+langchain-core
+langgraph 
+openai
+SQLAlchemy==1.4.52
+loguru
+Flask 
+Flask-Bcrypt 
+Flask-Cors 
+Flask-Session
+asgiref
+psycopg2
+redis
